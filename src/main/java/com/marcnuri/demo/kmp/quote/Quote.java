@@ -5,9 +5,12 @@
  */
 package com.marcnuri.demo.kmp.quote;
 
+import io.quarkus.runtime.annotations.RegisterForReflection;
+
 import java.io.Serializable;
 import java.util.Objects;
 
+@RegisterForReflection
 public class Quote implements Serializable {
 
   private static final long serialVersionUID = 6301596552055083396L;
