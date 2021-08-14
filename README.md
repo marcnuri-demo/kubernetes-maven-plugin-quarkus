@@ -16,4 +16,4 @@ Plugin and how to publish the application container images into Docker Hub and d
 
 Please feel free to leave any comments or suggestions on the blog page:
 * [English](https://blog.marcnuri.com/quarkus-kubernetes-maven-plugin-graal)
-* Español
+* [Español](https://blog.marcnuri.com/quarkus-kubernetes-maven-plugin-graalvm)
